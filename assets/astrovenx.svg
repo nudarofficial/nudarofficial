@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="Astrovenx. Astronomy, Space, Science Communication.">
+  <rect width="480" height="200" fill="#0A0A0A"/>
+  <ellipse cx="392" cy="100" rx="120" ry="34" fill="none" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1.5" transform="rotate(-20 392 100)"/>
+  <circle cx="392" cy="100" r="26" fill="#1F4FFF"/>
+  <circle cx="300" cy="62" r="3" fill="#FFFFFF"/>
+  <circle cx="452" cy="36" r="2" fill="#FFFFFF" fill-opacity="0.8"/>
+  <circle cx="430" cy="168" r="2.5" fill="#FFFFFF" fill-opacity="0.7"/>
+  <circle cx="338" cy="150" r="1.8" fill="#FFFFFF" fill-opacity="0.6"/>
+  <circle cx="262" cy="30" r="1.5" fill="#FFFFFF" fill-opacity="0.5"/>
+  <rect x="32" y="36" width="40" height="6" fill="#1F4FFF"/>
+  <text x="32" y="104" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-1.5" fill="#FFFFFF">Astrovenx</text>
+  <text x="32" y="140" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#6F8FFF">ASTRONOMY  /  SPACE  /  SCIENCE</text>
+  <text x="32" y="172" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#B5B5B5">Astronomy content in English</text>
+</svg>
