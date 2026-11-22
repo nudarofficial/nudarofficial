@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="222" viewBox="0 0 840 222" role="img" aria-label="Profile signal: 15 contributions, 2 repos, 5 active days" fill="none">
+<style>
+.s{font-family:'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif} .m{font-family:'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace}
+.up{animation:up .9s cubic-bezier(.2,.7,.2,1) backwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.bar{transform-box:fill-box;transform-origin:0 50%;animation:fill 1.6s cubic-bezier(.2,.8,.2,1) backwards}
+@keyframes fill{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+</style>
+<defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1018"/><stop offset="1" stop-color="#0F1530"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1F4FFF"/><stop offset=".5" stop-color="#7B97FF" stop-opacity=".4"/><stop offset="1" stop-color="#1F4FFF"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="838" height="220" rx="22" fill="#07080B" stroke="#232B3E"/>
+<rect x="1.5" y="1.5" width="837" height="219" rx="21.5" stroke="url(#edge)" stroke-width="1.5" opacity=".3">
+  <animate attributeName="opacity" values=".18;.7;.18" dur="6s" repeatCount="indefinite"/>
+</rect>
+<rect x="14" y="14" width="812" height="194" rx="16" fill="url(#panel)" stroke="#232B3E" stroke-opacity=".7"/>
+<text x="810" y="198" text-anchor="end" class="m" font-size="9" fill="#545C70">updated 22 Nov 2026</text>
+<text x="36" y="56" class="s up" font-size="20" font-weight="800" fill="#F7F5F0">Profile Signal</text>
+<text x="36" y="78" class="m up" font-size="11" fill="#7B97FF" style="animation-delay:.1s">Live GitHub stats · refreshed daily</text>
+<circle cx="794" cy="52" r="4" fill="#1F4FFF"/>
+<circle cx="794" cy="52" r="4" stroke="#1F4FFF" stroke-width="1.5">
+  <animate attributeName="r" values="4;12" dur="2s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".9;0" dur="2s" repeatCount="indefinite"/>
+</circle>
+<g class="up" style="animation-delay:0.20s">
+<rect x="36" y="98" width="181" height="80" rx="12" fill="#141A28" stroke="#232B3E"/>
+<text x="50" y="120" class="m" font-size="10" letter-spacing="1" fill="#8D95A8">CONTRIBUTIONS</text>
+<text x="203" y="120" text-anchor="end" class="m" font-size="9" fill="#545C70">/ 25</text>
+<text x="50" y="150" class="s" font-size="26" font-weight="800" fill="#7B97FF">15</text>
+<rect x="50" y="160" width="153" height="5" rx="2.5" fill="#232B3E"/>
+<rect class="bar" style="animation-delay:0.60s" x="50" y="160" width="91.8" height="5" rx="2.5" fill="#7B97FF"/>
+</g><g class="up" style="animation-delay:0.32s">
+<rect x="231" y="98" width="181" height="80" rx="12" fill="#141A28" stroke="#232B3E"/>
+<text x="245" y="120" class="m" font-size="10" letter-spacing="1" fill="#8D95A8">PUBLIC REPOS</text>
+<text x="398" y="120" text-anchor="end" class="m" font-size="9" fill="#545C70">/ 5</text>
+<text x="245" y="150" class="s" font-size="26" font-weight="800" fill="#F7F5F0">2</text>
+<rect x="245" y="160" width="153" height="5" rx="2.5" fill="#232B3E"/>
+<rect class="bar" style="animation-delay:0.75s" x="245" y="160" width="61.2" height="5" rx="2.5" fill="#F7F5F0"/>
+</g><g class="up" style="animation-delay:0.44s">
+<rect x="426" y="98" width="181" height="80" rx="12" fill="#141A28" stroke="#232B3E"/>
+<text x="440" y="120" class="m" font-size="10" letter-spacing="1" fill="#8D95A8">ACTIVE DAYS</text>
+<text x="593" y="120" text-anchor="end" class="m" font-size="9" fill="#545C70">/ 365</text>
+<text x="440" y="150" class="s" font-size="26" font-weight="800" fill="#1F4FFF">5</text>
+<rect x="440" y="160" width="153" height="5" rx="2.5" fill="#232B3E"/>
+<rect class="bar" style="animation-delay:0.90s" x="440" y="160" width="4.6" height="5" rx="2.5" fill="#1F4FFF"/>
+</g><g class="up" style="animation-delay:0.56s">
+<rect x="621" y="98" width="181" height="80" rx="12" fill="#141A28" stroke="#232B3E"/>
+<text x="635" y="120" class="m" font-size="10" letter-spacing="1" fill="#8D95A8">LONGEST STREAK</text>
+<text x="788" y="120" text-anchor="end" class="m" font-size="9" fill="#545C70">/ 5d</text>
+<text x="635" y="150" class="s" font-size="26" font-weight="800" fill="#F7F5F0">2d</text>
+<rect x="635" y="160" width="153" height="5" rx="2.5" fill="#232B3E"/>
+<rect class="bar" style="animation-delay:1.05s" x="635" y="160" width="61.2" height="5" rx="2.5" fill="#F7F5F0"/>
+</g>
+</svg>

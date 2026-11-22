@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="444" viewBox="0 0 840 444" role="img" aria-label="Projects: bug-hunter, nudarofficial, Nudar Official, Astrovenx" fill="none">
+<style>
+.s{font-family:'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif} .m{font-family:'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace}
+.up{animation:up .9s cubic-bezier(.2,.7,.2,1) backwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.arc{animation:arc 1.8s cubic-bezier(.2,.8,.2,1) backwards}
+@keyframes arc{from{stroke-dasharray:0 var(--c)}}
+</style>
+<defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1018"/><stop offset="1" stop-color="#0F1530"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1F4FFF"/><stop offset=".5" stop-color="#7B97FF" stop-opacity=".4"/><stop offset="1" stop-color="#1F4FFF"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="838" height="442" rx="22" fill="#07080B" stroke="#232B3E"/>
+<rect x="1.5" y="1.5" width="837" height="441" rx="21.5" stroke="url(#edge)" stroke-width="1.5" opacity=".3">
+  <animate attributeName="opacity" values=".18;.7;.18" dur="6s" repeatCount="indefinite"/>
+</rect>
+<rect x="14" y="14" width="812" height="416" rx="16" fill="url(#panel)" stroke="#232B3E" stroke-opacity=".7"/>
+<text x="810" y="420" text-anchor="end" class="m" font-size="9" fill="#545C70">updated 22 Nov 2026</text>
+<text x="36" y="54" class="m" font-size="12" letter-spacing="1.5" fill="#7B97FF">PROJECTS.LOG</text>
+<text x="160" y="54" class="m" font-size="11" fill="#545C70">@nudarofficial ~ landmarks</text>
+<text x="804" y="54" text-anchor="end" class="m" font-size="11" fill="#8D95A8">4 projects</text>
+<rect x="36" y="68" width="768" height="1" fill="#232B3E"/>
+<g class="up" style="animation-delay:0.20s">
+<rect x="36" y="94" width="376" height="150" rx="12" fill="#141A28" stroke="#232B3E"/>
+<rect x="36" y="94" width="376" height="150" rx="12" stroke="#7B97FF" stroke-width="1.2" stroke-dasharray="70 982" opacity=".7">
+  <animate attributeName="stroke-dashoffset" values="1052;0" dur="9s" begin="0.0s" repeatCount="indefinite"/>
+</rect>
+<text x="54" y="116" class="m" font-size="9" letter-spacing="1.5" fill="#7B97FF">◆ REPO</text>
+<text x="54" y="134" class="s" font-size="17" font-weight="800" fill="#F7F5F0">bug-hunter</text>
+<text x="54" y="152" class="s" font-size="12" fill="#8D95A8">An AI-powered Claude Agent Skill for</text><text x="54" y="168" class="s" font-size="12" fill="#8D95A8">debugging, root-cause analysis, code…</text>
+<rect x="54" y="186" width="89" height="20" rx="10" fill="#0D1018" stroke="#232B3E"/><text x="99" y="200" text-anchor="middle" class="m" font-size="10" fill="#8D95A8">agent-skills</text><rect x="149" y="186" width="89" height="20" rx="10" fill="#0D1018" stroke="#232B3E"/><text x="194" y="200" text-anchor="middle" class="m" font-size="10" fill="#8D95A8">ai-debugging</text>
+<text x="54" y="228" class="m" font-size="10" fill="#545C70">Python · updated 1d ago</text>
+<circle cx="362" cy="160" r="26" stroke="#232B3E" stroke-width="6"/><circle class="arc" style="--c:163.4;animation-delay:0.80s" cx="362" cy="160" r="26" stroke="#1F4FFF" stroke-width="6" stroke-linecap="round" stroke-dasharray="163.4 163.4" stroke-dashoffset="-0.0" transform="rotate(-90 362 160)"/><text x="362" y="164" text-anchor="middle" class="s" font-size="12" font-weight="800" fill="#F7F5F0">100%</text><text x="362" y="206" text-anchor="middle" class="m" font-size="9" fill="#8D95A8">Python</text>
+</g><g class="up" style="animation-delay:0.35s">
+<rect x="428" y="94" width="376" height="150" rx="12" fill="#141A28" stroke="#232B3E"/>
+<rect x="428" y="94" width="376" height="150" rx="12" stroke="#7B97FF" stroke-width="1.2" stroke-dasharray="70 982" opacity=".7">
+  <animate attributeName="stroke-dashoffset" values="1052;0" dur="9s" begin="2.2s" repeatCount="indefinite"/>
+</rect>
+<text x="446" y="116" class="m" font-size="9" letter-spacing="1.5" fill="#7B97FF">◆ REPO</text>
+<text x="446" y="134" class="s" font-size="17" font-weight="800" fill="#F7F5F0">nudarofficial</text>
+<text x="446" y="152" class="s" font-size="12" fill="#8D95A8">Profile README: AI, Marketing, Design</text><text x="446" y="168" class="s" font-size="12" fill="#8D95A8">and Technology.</text>
+<rect x="446" y="186" width="53" height="20" rx="10" fill="#0D1018" stroke="#232B3E"/><text x="472" y="200" text-anchor="middle" class="m" font-size="10" fill="#8D95A8">Python</text>
+<text x="446" y="228" class="m" font-size="10" fill="#545C70">Python · updated today</text>
+<circle cx="754" cy="160" r="26" stroke="#232B3E" stroke-width="6"/><circle class="arc" style="--c:163.4;animation-delay:1.00s" cx="754" cy="160" r="26" stroke="#1F4FFF" stroke-width="6" stroke-linecap="round" stroke-dasharray="163.4 163.4" stroke-dashoffset="-0.0" transform="rotate(-90 754 160)"/><text x="754" y="164" text-anchor="middle" class="s" font-size="12" font-weight="800" fill="#F7F5F0">100%</text><text x="754" y="206" text-anchor="middle" class="m" font-size="9" fill="#8D95A8">Python</text>
+</g><g class="up" style="animation-delay:0.50s">
+<rect x="36" y="260" width="376" height="150" rx="12" fill="#141A28" stroke="#232B3E"/>
+<rect x="36" y="260" width="376" height="150" rx="12" stroke="#7B97FF" stroke-width="1.2" stroke-dasharray="70 982" opacity=".7">
+  <animate attributeName="stroke-dashoffset" values="1052;0" dur="9s" begin="4.4s" repeatCount="indefinite"/>
+</rect>
+<text x="54" y="282" class="m" font-size="9" letter-spacing="1.5" fill="#7B97FF">◆ BRAND</text>
+<text x="54" y="300" class="s" font-size="17" font-weight="800" fill="#F7F5F0">Nudar Official</text>
+<text x="54" y="318" class="s" font-size="12" fill="#8D95A8">Independent personal brand sharing</text><text x="54" y="334" class="s" font-size="12" fill="#8D95A8">tools, ideas and lessons on AI…</text>
+<rect x="54" y="352" width="28" height="20" rx="10" fill="#0D1018" stroke="#232B3E"/><text x="68" y="366" text-anchor="middle" class="m" font-size="10" fill="#8D95A8">AI</text><rect x="88" y="352" width="71" height="20" rx="10" fill="#0D1018" stroke="#232B3E"/><text x="124" y="366" text-anchor="middle" class="m" font-size="10" fill="#8D95A8">Marketing</text><rect x="165" y="352" width="53" height="20" rx="10" fill="#0D1018" stroke="#232B3E"/><text x="191" y="366" text-anchor="middle" class="m" font-size="10" fill="#8D95A8">Design</text>
+<text x="54" y="394" class="m" font-size="10" fill="#545C70">Instagram · TikTok</text>
+<circle cx="362" cy="326" r="26" stroke="#232B3E" stroke-width="6"/><circle class="arc" style="--c:163.4;animation-delay:1.20s" cx="362" cy="326" r="26" stroke="#1F4FFF" stroke-width="6" stroke-linecap="round" stroke-dasharray="76.8 163.4" stroke-dashoffset="-0.0" transform="rotate(-90 362 326)"/><circle class="arc" style="--c:163.4;animation-delay:1.45s" cx="362" cy="326" r="26" stroke="#7B97FF" stroke-width="6" stroke-linecap="round" stroke-dasharray="76.8 163.4" stroke-dashoffset="-81.7" transform="rotate(-90 362 326)"/><text x="362" y="330" text-anchor="middle" class="s" font-size="12" font-weight="800" fill="#F7F5F0">2</text><text x="362" y="372" text-anchor="middle" class="m" font-size="9" fill="#8D95A8">channels</text>
+</g><g class="up" style="animation-delay:0.65s">
+<rect x="428" y="260" width="376" height="150" rx="12" fill="#141A28" stroke="#232B3E"/>
+<rect x="428" y="260" width="376" height="150" rx="12" stroke="#7B97FF" stroke-width="1.2" stroke-dasharray="70 982" opacity=".7">
+  <animate attributeName="stroke-dashoffset" values="1052;0" dur="9s" begin="6.6s" repeatCount="indefinite"/>
+</rect>
+<text x="446" y="282" class="m" font-size="9" letter-spacing="1.5" fill="#7B97FF">◆ BRAND</text>
+<text x="446" y="300" class="s" font-size="17" font-weight="800" fill="#F7F5F0">Astrovenx</text>
+<text x="446" y="318" class="s" font-size="12" fill="#8D95A8">Astronomy content in English:</text><text x="446" y="334" class="s" font-size="12" fill="#8D95A8">discoveries, space exploration and…</text>
+<rect x="446" y="352" width="71" height="20" rx="10" fill="#0D1018" stroke="#232B3E"/><text x="481" y="366" text-anchor="middle" class="m" font-size="10" fill="#8D95A8">Astronomy</text><rect x="523" y="352" width="46" height="20" rx="10" fill="#0D1018" stroke="#232B3E"/><text x="546" y="366" text-anchor="middle" class="m" font-size="10" fill="#8D95A8">Space</text><rect x="575" y="352" width="59" height="20" rx="10" fill="#0D1018" stroke="#232B3E"/><text x="605" y="366" text-anchor="middle" class="m" font-size="10" fill="#8D95A8">Science</text>
+<text x="446" y="394" class="m" font-size="10" fill="#545C70">Instagram · TikTok · YouTube</text>
+<circle cx="754" cy="326" r="26" stroke="#232B3E" stroke-width="6"/><circle class="arc" style="--c:163.4;animation-delay:1.40s" cx="754" cy="326" r="26" stroke="#1F4FFF" stroke-width="6" stroke-linecap="round" stroke-dasharray="49.6 163.4" stroke-dashoffset="-0.0" transform="rotate(-90 754 326)"/><circle class="arc" style="--c:163.4;animation-delay:1.65s" cx="754" cy="326" r="26" stroke="#7B97FF" stroke-width="6" stroke-linecap="round" stroke-dasharray="49.6 163.4" stroke-dashoffset="-54.5" transform="rotate(-90 754 326)"/><circle class="arc" style="--c:163.4;animation-delay:1.90s" cx="754" cy="326" r="26" stroke="#1F4FFF" stroke-width="6" stroke-linecap="round" stroke-dasharray="49.6 163.4" stroke-dashoffset="-108.9" transform="rotate(-90 754 326)"/><text x="754" y="330" text-anchor="middle" class="s" font-size="12" font-weight="800" fill="#F7F5F0">3</text><text x="754" y="372" text-anchor="middle" class="m" font-size="9" fill="#8D95A8">channels</text>
+</g>
+</svg>
