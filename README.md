@@ -20,6 +20,7 @@
 
 <p align="center"><sub>
 <a href="https://github.com/nudarofficial/bug-hunter">bug-hunter</a> ·
+<a href="https://github.com/nudarofficial/humanize">humanize</a> ·
 <a href="https://www.instagram.com/nudarofficial">Nudar Official</a> ·
 <a href="https://www.youtube.com/@astrovenx">Astrovenx</a> ·
 <a href="https://github.com/nudarofficial?tab=repositories">All repositories</a>
