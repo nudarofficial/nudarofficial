@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="704" viewBox="0 0 1200 704" role="img" aria-label="Projects: bug-hunter, nudarofficial, Nudar Official, Astrovenx" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="704" viewBox="0 0 1200 704" role="img" aria-label="Projects: humanize, bug-hunter, Nudar Official, Astrovenx" fill="none">
 <style>.s{font-family:'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif}.m{font-family:'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace}</style>
 <defs>
 <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080D1C"/><stop offset=".55" stop-color="#080D1C"/><stop offset="1" stop-color="#0E1A44"/></linearGradient>
@@ -19,7 +19,7 @@
 <rect x="18" y="18" width="1164" height="668" rx="22" fill="url(#panel)"/>
 <rect x="18" y="18" width="1164" height="668" rx="22" fill="url(#corner)"/>
 <rect x="18.75" y="18.75" width="1162.5" height="666.5" rx="21.5" stroke="url(#glass)" stroke-width="1.5"/>
-<text x="1156" y="668" text-anchor="end" class="m" font-size="13" fill="#5D6788">updated 22 Nov 2026</text>
+<text x="1156" y="668" text-anchor="end" class="m" font-size="13" fill="#5D6788">updated 23 Nov 2026</text>
 <text x="54" y="82" class="m" font-size="19" letter-spacing="2" fill="#8FA8FF">PROJECTS.LOG</text>
 <text x="252" y="82" class="m" font-size="17" fill="#5D6788">@nudarofficial ~ landmarks</text>
 <text x="1146" y="82" text-anchor="end" class="m" font-size="17" fill="#9AA3BC">4 projects</text>
@@ -33,20 +33,20 @@
   <animate attributeName="stroke-dashoffset" values="1548;0" dur="6s" begin="0.0s" repeatCount="indefinite"/>
 </rect>
 <text x="82" y="178" class="m" font-size="14" letter-spacing="2" fill="#8FA8FF">◆ REPO</text>
-<text x="82" y="216" class="s" font-size="30" font-weight="800" fill="#E8E8E8">bug-hunter</text>
-<text x="82" y="248" class="s" font-size="18" fill="#9AA3BC">An AI-powered Claude Agent Skill for</text><text x="82" y="274" class="s" font-size="18" fill="#9AA3BC">debugging, root-cause analysis, code…</text>
-<rect x="82" y="292" width="128" height="30" rx="15" fill="#080D1C" stroke="#1E2A52" stroke-width="1.5"/><text x="146" y="312" text-anchor="middle" class="m" font-size="14" fill="#9AA3BC">agent-skills</text><rect x="218" y="292" width="128" height="30" rx="15" fill="#080D1C" stroke="#1E2A52" stroke-width="1.5"/><text x="283" y="312" text-anchor="middle" class="m" font-size="14" fill="#9AA3BC">ai-debugging</text>
-<text x="82" y="354" class="m" font-size="15" fill="#5D6788">Python · updated 1d ago</text>
+<text x="82" y="216" class="s" font-size="30" font-weight="800" fill="#E8E8E8">humanize</text>
+<text x="82" y="248" class="s" font-size="18" fill="#9AA3BC">An intelligent Claude Agent Skill that</text><text x="82" y="274" class="s" font-size="18" fill="#9AA3BC">transforms robotic AI-generated…</text>
+<rect x="82" y="292" width="128" height="30" rx="15" fill="#080D1C" stroke="#1E2A52" stroke-width="1.5"/><text x="146" y="312" text-anchor="middle" class="m" font-size="14" fill="#9AA3BC">agent-skills</text><rect x="218" y="292" width="128" height="30" rx="15" fill="#080D1C" stroke="#1E2A52" stroke-width="1.5"/><text x="283" y="312" text-anchor="middle" class="m" font-size="14" fill="#9AA3BC">ai-humanizer</text>
+<text x="82" y="354" class="m" font-size="15" fill="#5D6788">Python · updated today</text>
 <circle cx="496" cy="240" r="60" stroke="#8FA8FF" stroke-opacity=".55" stroke-width="2" stroke-dasharray="4 10"><animateTransform attributeName="transform" type="rotate" from="0 496 240" to="360 496 240" dur="14s" repeatCount="indefinite"/></circle><circle cx="496" cy="240" r="60" stroke="#2F5BFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="40 337.0" filter="url(#glow)"><animateTransform attributeName="transform" type="rotate" from="360 496 240" to="0 496 240" dur="6s" repeatCount="indefinite"/></circle><circle cx="496" cy="240" r="44" stroke="#1E2A52" stroke-width="10"/><circle cx="496" cy="240" r="44" stroke="#2F5BFF" stroke-width="10" stroke-linecap="round" stroke-dasharray="276.5 276.5" stroke-dashoffset="-0.0" transform="rotate(-90 496 240)" filter="url(#glow)"><animate attributeName="stroke-opacity" values="1;.55;1" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle><text x="496" y="248" text-anchor="middle" class="s" font-size="24" font-weight="800" fill="#E8E8E8">100%</text><text x="496" y="328" text-anchor="middle" class="m" font-size="14" fill="#9AA3BC">Python</text><rect x="612" y="136" width="534" height="240" rx="20" fill="#0F1630" stroke="#1E2A52" stroke-width="1.5"/>
 <rect x="612.75" y="136.75" width="532.5" height="238.5" rx="19.5" stroke="url(#glass)"/>
 <rect x="612" y="136" width="534" height="240" rx="20" stroke="#8FA8FF" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="120 1428" filter="url(#glow)">
   <animate attributeName="stroke-dashoffset" values="1548;0" dur="6s" begin="1.5s" repeatCount="indefinite"/>
 </rect>
 <text x="640" y="178" class="m" font-size="14" letter-spacing="2" fill="#8FA8FF">◆ REPO</text>
-<text x="640" y="216" class="s" font-size="30" font-weight="800" fill="#E8E8E8">nudarofficial</text>
-<text x="640" y="248" class="s" font-size="18" fill="#9AA3BC">Profile README: AI, Marketing, Design</text><text x="640" y="274" class="s" font-size="18" fill="#9AA3BC">and Technology.</text>
-<rect x="640" y="292" width="77" height="30" rx="15" fill="#080D1C" stroke="#1E2A52" stroke-width="1.5"/><text x="679" y="312" text-anchor="middle" class="m" font-size="14" fill="#9AA3BC">Python</text>
-<text x="640" y="354" class="m" font-size="15" fill="#5D6788">Python · updated today</text>
+<text x="640" y="216" class="s" font-size="30" font-weight="800" fill="#E8E8E8">bug-hunter</text>
+<text x="640" y="248" class="s" font-size="18" fill="#9AA3BC">An AI-powered Claude Agent Skill for</text><text x="640" y="274" class="s" font-size="18" fill="#9AA3BC">debugging, root-cause analysis, code…</text>
+<rect x="640" y="292" width="128" height="30" rx="15" fill="#080D1C" stroke="#1E2A52" stroke-width="1.5"/><text x="704" y="312" text-anchor="middle" class="m" font-size="14" fill="#9AA3BC">agent-skills</text><rect x="776" y="292" width="128" height="30" rx="15" fill="#080D1C" stroke="#1E2A52" stroke-width="1.5"/><text x="841" y="312" text-anchor="middle" class="m" font-size="14" fill="#9AA3BC">ai-debugging</text>
+<text x="640" y="354" class="m" font-size="15" fill="#5D6788">Python · updated 1d ago</text>
 <circle cx="1054" cy="240" r="60" stroke="#8FA8FF" stroke-opacity=".55" stroke-width="2" stroke-dasharray="4 10"><animateTransform attributeName="transform" type="rotate" from="0 1054 240" to="360 1054 240" dur="16s" repeatCount="indefinite"/></circle><circle cx="1054" cy="240" r="60" stroke="#2F5BFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="40 337.0" filter="url(#glow)"><animateTransform attributeName="transform" type="rotate" from="360 1054 240" to="0 1054 240" dur="6s" repeatCount="indefinite"/></circle><circle cx="1054" cy="240" r="44" stroke="#1E2A52" stroke-width="10"/><circle cx="1054" cy="240" r="44" stroke="#2F5BFF" stroke-width="10" stroke-linecap="round" stroke-dasharray="276.5 276.5" stroke-dashoffset="-0.0" transform="rotate(-90 1054 240)" filter="url(#glow)"><animate attributeName="stroke-opacity" values="1;.55;1" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle><text x="1054" y="248" text-anchor="middle" class="s" font-size="24" font-weight="800" fill="#E8E8E8">100%</text><text x="1054" y="328" text-anchor="middle" class="m" font-size="14" fill="#9AA3BC">Python</text><rect x="54" y="400" width="534" height="240" rx="20" fill="#0F1630" stroke="#1E2A52" stroke-width="1.5"/>
 <rect x="54.75" y="400.75" width="532.5" height="238.5" rx="19.5" stroke="url(#glass)"/>
 <rect x="54" y="400" width="534" height="240" rx="20" stroke="#8FA8FF" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="120 1428" filter="url(#glow)">

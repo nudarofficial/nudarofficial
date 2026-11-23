@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Profile signal: 17 contributions, 2 repos, 5 active days" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Profile signal: 35 contributions, 3 repos, 5 active days" fill="none">
 <style>.s{font-family:'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif}.m{font-family:'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace}</style>
 <defs>
 <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080D1C"/><stop offset=".55" stop-color="#080D1C"/><stop offset="1" stop-color="#0E1A44"/></linearGradient>
@@ -19,7 +19,7 @@
 <rect x="18" y="18" width="1164" height="324" rx="22" fill="url(#panel)"/>
 <rect x="18" y="18" width="1164" height="324" rx="22" fill="url(#corner)"/>
 <rect x="18.75" y="18.75" width="1162.5" height="322.5" rx="21.5" stroke="url(#glass)" stroke-width="1.5"/>
-<text x="1156" y="324" text-anchor="end" class="m" font-size="13" fill="#5D6788">updated 22 Nov 2026</text>
+<text x="1156" y="324" text-anchor="end" class="m" font-size="13" fill="#5D6788">updated 23 Nov 2026</text>
 <text x="54" y="92" class="s" font-size="36" font-weight="800" fill="#E8E8E8">Profile Signal</text>
 <text x="56" y="124" class="m" font-size="18" fill="#8FA8FF">Live GitHub stats · refreshed daily</text>
 <text x="1090" y="90" text-anchor="end" class="m" font-size="15" letter-spacing="2" fill="#8FA8FF">LIVE
@@ -33,20 +33,20 @@
 <rect x="54" y="148" width="258" height="140" rx="18" fill="#0F1630" stroke="#1E2A52" stroke-width="1.5"/>
 <rect x="54.75" y="148.75" width="256.5" height="138.5" rx="17.5" stroke="url(#glass)"/>
 <text x="76" y="186" class="m" font-size="15" letter-spacing="1.5" fill="#9AA3BC">CONTRIBUTIONS</text>
-<text x="290" y="186" text-anchor="end" class="m" font-size="14" fill="#5D6788">/ 25</text>
-<text x="76" y="242" class="s" font-size="50" font-weight="800" fill="#8FA8FF">17</text>
+<text x="290" y="186" text-anchor="end" class="m" font-size="14" fill="#5D6788">/ 50</text>
+<text x="76" y="242" class="s" font-size="50" font-weight="800" fill="#8FA8FF">35</text>
 <rect x="76" y="260" width="214" height="10" rx="5" fill="#1E2A52"/>
-<rect x="76" y="260" width="145.5" height="10" rx="5" fill="#8FA8FF" filter="url(#glow)">
-  <animate attributeName="width" values="0;145.5;145.5;145.5" keyTimes="0;.3;.9;1" dur="6s" begin="0.0s" repeatCount="indefinite"/>
+<rect x="76" y="260" width="149.8" height="10" rx="5" fill="#8FA8FF" filter="url(#glow)">
+  <animate attributeName="width" values="0;149.8;149.8;149.8" keyTimes="0;.3;.9;1" dur="6s" begin="0.0s" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="1;.55;1" dur="1.8s" repeatCount="indefinite"/>
 </rect><rect x="334" y="148" width="258" height="140" rx="18" fill="#0F1630" stroke="#1E2A52" stroke-width="1.5"/>
 <rect x="334.75" y="148.75" width="256.5" height="138.5" rx="17.5" stroke="url(#glass)"/>
 <text x="356" y="186" class="m" font-size="15" letter-spacing="1.5" fill="#9AA3BC">PUBLIC REPOS</text>
 <text x="570" y="186" text-anchor="end" class="m" font-size="14" fill="#5D6788">/ 5</text>
-<text x="356" y="242" class="s" font-size="50" font-weight="800" fill="#E8E8E8">2</text>
+<text x="356" y="242" class="s" font-size="50" font-weight="800" fill="#E8E8E8">3</text>
 <rect x="356" y="260" width="214" height="10" rx="5" fill="#1E2A52"/>
-<rect x="356" y="260" width="85.6" height="10" rx="5" fill="#E8E8E8" filter="url(#glow)">
-  <animate attributeName="width" values="0;85.6;85.6;85.6" keyTimes="0;.3;.9;1" dur="6s" begin="0.3s" repeatCount="indefinite"/>
+<rect x="356" y="260" width="128.4" height="10" rx="5" fill="#E8E8E8" filter="url(#glow)">
+  <animate attributeName="width" values="0;128.4;128.4;128.4" keyTimes="0;.3;.9;1" dur="6s" begin="0.3s" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="1;.55;1" dur="1.8s" repeatCount="indefinite"/>
 </rect><rect x="614" y="148" width="258" height="140" rx="18" fill="#0F1630" stroke="#1E2A52" stroke-width="1.5"/>
 <rect x="614.75" y="148.75" width="256.5" height="138.5" rx="17.5" stroke="url(#glass)"/>

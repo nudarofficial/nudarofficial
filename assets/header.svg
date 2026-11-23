@@ -19,7 +19,7 @@
 <rect x="18" y="18" width="1164" height="304" rx="22" fill="url(#panel)"/>
 <rect x="18" y="18" width="1164" height="304" rx="22" fill="url(#corner)"/>
 <rect x="18.75" y="18.75" width="1162.5" height="302.5" rx="21.5" stroke="url(#glass)" stroke-width="1.5"/>
-<text x="1156" y="304" text-anchor="end" class="m" font-size="13" fill="#5D6788">updated 22 Nov 2026</text>
+<text x="1156" y="304" text-anchor="end" class="m" font-size="13" fill="#5D6788">updated 23 Nov 2026</text>
 <defs>
 <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2F5BFF"/><stop offset="1" stop-color="#8FA8FF"/></linearGradient>
 <linearGradient id="num" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8FA8FF"/><stop offset="1" stop-color="#2F5BFF"/></linearGradient>
@@ -51,7 +51,7 @@
 <text x="300" y="188" class="s" font-size="76" font-weight="800" letter-spacing="-2" fill="#E8E8E8">Mohamed Hadj<tspan fill="#2F5BFF">.</tspan></text>
 <text x="304" y="234" class="s" font-size="24" fill="#9AA3BC">AI • Marketing • Design  |  Building Digital Experiences</text>
 <rect x="302" y="262" width="106" height="40" rx="20" fill="#0F1630" stroke="#1E2A52" stroke-width="1.5"><animate attributeName="stroke" values="#1E2A52;#2F5BFF;#1E2A52" dur="4s" begin="0.0s" repeatCount="indefinite"/></rect><text x="355" y="288" text-anchor="middle" class="m" font-size="18" fill="#E8E8E8">Python</text><rect x="420" y="262" width="73" height="40" rx="20" fill="#0F1630" stroke="#1E2A52" stroke-width="1.5"><animate attributeName="stroke" values="#1E2A52;#2F5BFF;#1E2A52" dur="4s" begin="0.6s" repeatCount="indefinite"/></rect><text x="456" y="288" text-anchor="middle" class="m" font-size="18" fill="#E8E8E8">SQL</text><rect x="505" y="262" width="62" height="40" rx="20" fill="#0F1630" stroke="#1E2A52" stroke-width="1.5"><animate attributeName="stroke" values="#1E2A52;#2F5BFF;#1E2A52" dur="4s" begin="1.2s" repeatCount="indefinite"/></rect><text x="536" y="288" text-anchor="middle" class="m" font-size="18" fill="#E8E8E8">AI</text><rect x="579" y="262" width="106" height="40" rx="20" fill="#0F1630" stroke="#1E2A52" stroke-width="1.5"><animate attributeName="stroke" values="#1E2A52;#2F5BFF;#1E2A52" dur="4s" begin="1.8s" repeatCount="indefinite"/></rect><text x="632" y="288" text-anchor="middle" class="m" font-size="18" fill="#E8E8E8">Design</text>
-<text x="1130" y="160" text-anchor="end" class="s" font-size="84" font-weight="800" fill="url(#num)" filter="url(#glow)">17
+<text x="1130" y="160" text-anchor="end" class="s" font-size="84" font-weight="800" fill="url(#num)" filter="url(#glow)">35
   <animate attributeName="opacity" values="1;.75;1" dur="3s" repeatCount="indefinite"/></text>
 <text x="1130" y="196" text-anchor="end" class="m" font-size="15" letter-spacing="2" fill="#9AA3BC">CONTRIBUTIONS · 12 MO</text>
 </svg>
