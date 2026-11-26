@@ -19,7 +19,7 @@
 <rect x="18" y="18" width="1164" height="324" rx="22" fill="url(#panel)"/>
 <rect x="18" y="18" width="1164" height="324" rx="22" fill="url(#corner)"/>
 <rect x="18.75" y="18.75" width="1162.5" height="322.5" rx="21.5" stroke="url(#glass)" stroke-width="1.5"/>
-<text x="1156" y="324" text-anchor="end" class="m" font-size="13" fill="#5D6788">updated 25 Nov 2026</text>
+<text x="1156" y="324" text-anchor="end" class="m" font-size="13" fill="#5D6788">updated 26 Nov 2026</text>
 <text x="54" y="92" class="s" font-size="36" font-weight="800" fill="#E8E8E8">Profile Signal</text>
 <text x="56" y="124" class="m" font-size="18" fill="#8FA8FF">Live GitHub stats · refreshed daily</text>
 <text x="1090" y="90" text-anchor="end" class="m" font-size="15" letter-spacing="2" fill="#8FA8FF">LIVE
